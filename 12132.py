@@ -17,3 +17,4 @@ if guess == sicret:
 else:
     print ("Ты проиграл")
     print ("Это число", sicret)
+    asdassdas
